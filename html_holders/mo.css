@@ -22,13 +22,11 @@
 }
 
 .Addmore {
-  
   margin-top: 55px;
   height: 225px;
   width: 323px;
   background: rgb(202, 207, 211);
-  display:flex ;
-  
+  display:flex ; 
 }
 
 .dashboard{
