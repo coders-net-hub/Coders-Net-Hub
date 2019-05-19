@@ -1,0 +1,38 @@
+.ProjectCards {
+  height: 200px;
+  width: 323px;
+  background: rgb(246, 249, 253);
+  display: flex
+  
+}
+
+.imageheight {
+  height: 200px;
+  width: 200px;
+  background: rgb(243, 250, 255);
+  display:flex ;
+  
+}
+
+.textF {
+  height: 25px;
+  width: 330px;
+  background:white;
+  flex: 0
+}
+
+.Addmore {
+  
+  margin-top: 55px;
+  height: 225px;
+  width: 323px;
+  background: rgb(202, 207, 211);
+  display:flex ;
+  
+}
+
+.dashboard{
+  margin-top: 20px;
+  margin-bottom: -20px;
+  margin-left: 105px;
+}
