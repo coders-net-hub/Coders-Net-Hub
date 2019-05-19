@@ -70,3 +70,22 @@
   margin-top: 30px;
 }
 
+.imageview {
+  height: 200px;
+  background: rgb(246, 249, 253);
+  display: flex
+
+}
+
+.imageheight {
+  height: 200px;
+  width: 200px;
+  background: rgb(255, 255, 255);
+  display:flex ;
+  margin-right: 100px;
+
+}
+#textal {
+  margin-left: 30px
+}
+
